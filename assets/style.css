@@ -28,7 +28,6 @@ header nav {
     margin: 10px 0;
 }
 
-
 header nav ul li {
     display: inline;
 }
@@ -48,5 +47,5 @@ header nav ul li a {
 }
 
 .hero img {
-    margin: 25px 50px;
+    margin: 25px 30px;
 }
