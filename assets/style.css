@@ -46,3 +46,7 @@ header nav ul li a {
     background-position: center;
     position: relative;
 }
+
+.hero img {
+    margin: 25px 50px;
+}
