@@ -66,3 +66,12 @@ header nav ul li a {
     font-size: 20px;
     margin: 0 auto;
 }
+
+.project-links a {
+    padding: 50px 50px;
+    margin: 0 50px;
+    background-color: #f44336;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+}
