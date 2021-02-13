@@ -49,3 +49,20 @@ header nav ul li a {
 .hero img {
     margin: 25px 30px;
 }
+
+.intro {
+    text-align: left;
+}
+
+.intro h2, .project-links h2, .professional-links h2, .resume-links h2 {
+    line-height: 1.5;
+    font-size: 36px;
+    margin:30px 50px;
+}
+
+.intro p {
+    line-height: 1.7;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+}
