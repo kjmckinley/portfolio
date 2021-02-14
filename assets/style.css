@@ -40,7 +40,7 @@ header nav ul li a {
 
 .hero {
     background-image: url("./images/Hero-Banner-Placeholder.png");
-    height: 200px;
+    height: 225px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -48,6 +48,8 @@ header nav ul li a {
 
 .hero img {
     margin: 25px 30px;
+    block-size: 175px;
+    
 }
 
 .intro {
