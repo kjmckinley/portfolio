@@ -69,6 +69,9 @@ header nav ul li a {
     line-height: 1.5;
     font-size: 36px;
     margin:30px 50px;
+    
+    background-color: #39a6b2;
+    color: rgb(47, 78, 108);
 }
 
 .intro p {
@@ -76,14 +79,14 @@ header nav ul li a {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    margin-bottom: 100px;
 }
 
 /* styling for project links that are clickable by the user and will take them to the deployed site */
 .project-links a {
     height: 200px;
     width: 250px;
-    margin: 0 25px;
-    margin-bottom: 25px;
+    margin: 0 30px;
     display: inline-block;
     color: white;
     text-align: center;
@@ -114,8 +117,8 @@ header nav ul li a {
 /* combnied styling for Resume and Contact Me section */
 .professional-links address p, .resume-links p {
     display: inline-block;
-    padding: 10px 50px;
-    font-size: 25px;
+    padding: 10px 100px;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -125,6 +128,7 @@ header nav ul li a {
 
 .professional-links address a, .resume-links a {
     text-decoration: none;
+    color: rgb(87, 108, 130);
 }
 
 footer {
