@@ -103,6 +103,11 @@ header nav ul li a {
     font-weight: bold;
     text-decoration: none;
 }
+
+.resume-links p {
+    padding-bottom: 100px;
+}
+
 .professional-links address a, .resume-links a {
     text-decoration: none;
 }
@@ -110,4 +115,5 @@ header nav ul li a {
 footer {
     width: 100%;
     height: 50px;
+    background-color: #024e76
 }
