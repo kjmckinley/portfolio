@@ -7,7 +7,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
+/* stylings and formatting for the header and nav bar portion */
 header {
     background-color:  #024e76;
     color: white;
@@ -41,6 +41,7 @@ header nav ul li a {
     font-size: 22px;
 }
 
+/* styling for the hero section of the page */
 .hero {
     background-image: url("./images/img_hero_banner.jpg");
     height: 225px;
@@ -49,6 +50,7 @@ header nav ul li a {
     position: relative;
 }
 
+/* border and sizing on the profile image to make it stand out from the banner */
 .hero img {
     margin: 25px 30px;
     block-size: 175px;
@@ -57,10 +59,12 @@ header nav ul li a {
     
 }
 
+/* styling for the intro "About Me" section */
 .intro {
     text-align: left;
 }
 
+/* combined styling for headers in each section */
 .intro h2, .project-links h2, .professional-links h2, .resume-links h2 {
     line-height: 1.5;
     font-size: 36px;
@@ -74,28 +78,40 @@ header nav ul li a {
     margin: 0 auto;
 }
 
+/* styling for project links that are clickable by the user and will take them to the deployed site */
 .project-links a {
     height: 200px;
     width: 250px;
     margin: 0 25px;
     margin-bottom: 25px;
-
-    /* Temporary styling to tell where box links are since all text is white */
-    background-color: #024e76;
-    
     display: inline-block;
     color: white;
     text-align: center;
 }
 
+/* images that are set as the background for each link */
 .project-links #run-buddy {
     background-image: url("./Images/Run-Buddy-Example.PNG");
     background-size: cover;
 }
 
-/* .professional-links address {
-    margin: 0 50px;
-} */
+.project-links #password-generator {
+    background-image: url("./Images/tech-img-01.jpg");
+    background-size: cover;
+}
+
+.project-links #test-link-1 {
+    background-image: url("./Images/tech-img-02.jpg");
+    background-size: cover;
+}
+
+.project-links #test-link-2 {
+    background-image: url("./Images/tech-img-03.jpg");
+    background-size: cover;
+}
+
+
+/* combnied styling for Resume and Contact Me section */
 .professional-links address p, .resume-links p {
     display: inline-block;
     padding: 10px 50px;
