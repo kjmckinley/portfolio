@@ -70,7 +70,7 @@ header nav ul li a {
 .project-links a {
     padding: 50px 50px;
     margin: 0 50px;
-    background-color: #f44336;
+    background-image: url("./Images/Run-Buddy-Example.PNG");
     display: inline-block;
     text-decoration: none;
     color: white;
