@@ -79,10 +79,13 @@ header nav ul li a {
 /* .professional-links address {
     margin: 0 50px;
 } */
-.professional-links address p {
+.professional-links address p, .resume-links p {
     display: inline-block;
-    padding: 0 4%;
+    padding: 10px 50px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
 }
-.professional-links address a {
+.professional-links address a, .resume-links a {
     text-decoration: none;
 }
