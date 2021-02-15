@@ -142,6 +142,7 @@ body h2 {
     font-weight: bold;
 }
 
+/* extra room at the bottom */
 .resume-links p {
     padding-bottom: 100px;
 }
@@ -151,6 +152,7 @@ body h2 {
     color: rgb(64, 74, 84);
 }
 
+/* no content, but it looks nice */
 footer {
     width: 100%;
     height: 50px;
