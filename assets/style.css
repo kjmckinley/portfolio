@@ -143,11 +143,12 @@ body h2 {
     padding: 10px 75px;
     font-size: 20px;
     font-weight: bold;
+    border-right: solid;
 }
 
 /* extra room at the bottom */
 .resume-links p {
-    padding-bottom: 100px;
+    margin-bottom: 100px;
 }
 
 .professional-links address a, .resume-links a {
