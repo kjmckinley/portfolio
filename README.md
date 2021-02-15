@@ -1,6 +1,6 @@
 # Portfolio
 
-This purpose of this webpage is to be a type of resume and reference for future job searches. This professional profile contains a header with nav elements, my name, a recent photo of me and styled content beneath that describes my qualifications, current online presence and previous projects to showcase to potential employers. 
+This purpose of this webpage is to be a type of resume and reference for future job searches. This professional profile contains a header with nav elements, my name, a recent photo of me and styled content beneath that describes my qualifications, current online presence and previous projects to showcase to potential employers. These sections include, About Me, Work, Contact Me and Reume. 
 
 Deployed Website: https://kjmckinley.github.io/portfolio/
 
