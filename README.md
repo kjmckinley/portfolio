@@ -32,5 +32,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 Example from page:
-![demo] (./assests/images/screenshot.PNG)
+<img src="./assests/Images/screenshot.PNG" />
 
