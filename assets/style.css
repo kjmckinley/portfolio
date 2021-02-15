@@ -98,7 +98,7 @@ body h2 {
 
 /* styling for project links that are clickable by the user and will take them to the deployed site */
 .project-links {
-    width: 85%;
+    width: 100%;
 }
 
 .project-links a {
