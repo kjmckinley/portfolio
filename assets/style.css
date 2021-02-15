@@ -43,7 +43,7 @@ header nav ul li a {
 
 /* styling for the hero section of the page */
 .hero {
-    background-image: url(./images/banner-3.jpg);
+    background-image: url(./images/img_hero_banner.jpg);
     height: 225px;
     background-size: cover;
     background-position: center;
@@ -72,8 +72,8 @@ header nav ul li a {
     font-size: 36px;
     margin:30px 25px;
     width: 50%;
-    background-color: #39a6b2;
-    color: rgb(47, 78, 108);
+    background-color: #45a6b1;
+    color: rgb(65, 86, 108);
     border-bottom: solid;
     border-width: thick;
 }
