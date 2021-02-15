@@ -43,7 +43,7 @@ header nav ul li a {
 
 /* styling for the hero section of the page */
 .hero {
-    background-image: url("./images/img_hero_banner.jpg");
+    background-image: url("./images/banner-3.png");
     height: 225px;
     background-size: cover;
     background-position: center;
