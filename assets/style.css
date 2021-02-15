@@ -49,7 +49,7 @@ header nav ul li a {
 /* styling for the hero section of the page */
 .hero {
     /* hero banner image that goes behind the profile pic and covers the width of the webpage */
-    background-image: url("./images/img_hero_banner.jpg");
+    background-image: url(./images/img_hero_banner.jpg);
     height: 225px;
     background-size: cover;
     background-position: center;
@@ -93,7 +93,6 @@ body h2 {
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
-    float: right;
 }
 
 /* styling for project links that are clickable by the user and will take them to the deployed site */
@@ -117,22 +116,22 @@ body h2 {
 
 /* images that are set as the background for each link */
 .project-links #run-buddy {
-    background-image: url("./Images/Run-Buddy-Example.PNG");
+    background-image: url("./images/Run-Buddy-Example.PNG");
     background-size: cover;
 }
 
 .project-links #password-generator {
-    background-image: url("./Images/tech-img-01.jpg");
+    background-image: url("./images/tech-img-01.jpg");
     background-size: cover;
 }
 
 .project-links #test-link-1 {
-    background-image: url("./Images/tech-img-02.jpg");
+    background-image: url("./images/tech-img-02.jpg");
     background-size: cover;
 }
 
 .project-links #test-link-2 {
-    background-image: url("./Images/tech-img-03.jpg");
+    background-image: url("./images/tech-img-03.jpg");
     background-size: cover;
 }
 
