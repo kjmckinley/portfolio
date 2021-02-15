@@ -56,14 +56,13 @@ header nav ul li a {
     block-size: 175px;
     border: solid;
     border-color: #39a6b2;
-    
+    border-radius: 10px;
 }
 
 /* styling for the intro "About Me" section */
 .intro {
     text-align: left;
     overflow: auto;
-
 }
 
 /* combined styling for headers in each section */
@@ -74,9 +73,10 @@ body h2 {
     margin-top: 72px;
     width: 50%;
     background-color: #45a6b1;
-    color: rgb(58, 77, 98);
+    color: white;
     border-bottom: solid;
     border-width: thick;
+    border-color: rgb(58, 77, 98);
     border-radius: 20px;
     padding-left: 30px;
 }
