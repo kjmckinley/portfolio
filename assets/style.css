@@ -69,13 +69,15 @@ header nav ul li a {
 /* combined styling for headers in each section */
 .intro h2, .project-links h2, .professional-links h2, .resume-links h2 {
     line-height: 1.5;
-    font-size: 36px;
+    font-size: 32px;
     margin:30px 25px;
     width: 50%;
     background-color: #45a6b1;
-    color: rgb(65, 86, 108);
+    color: rgb(58, 77, 98);
     border-bottom: solid;
     border-width: thick;
+    border-radius: 20px;
+    padding-left: 30px;
 }
 
 .intro p {
