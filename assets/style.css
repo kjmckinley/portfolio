@@ -49,7 +49,7 @@ header nav ul li a {
 /* styling for the hero section of the page */
 .hero {
     /* hero banner image that goes behind the profile pic and covers the width of the webpage */
-    background-image: url(./images/img_hero_banner.jpg);
+    background-image: url("./images/img_hero_banner.jpg");
     height: 225px;
     background-size: cover;
     background-position: center;
